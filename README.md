@@ -3,10 +3,6 @@
 
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Go+to+my+repositories)](https://git.io/typing-svg)
 
-I have courses
-
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
 
 My skils
 
